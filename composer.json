@@ -1,0 +1,17 @@
+{
+    "name": "chuehnone/ai-social",
+    "autoload": {
+        "psr-4": {
+            "AiSocial\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChinSheng"
+        }
+    ],
+    "require": {
+        "facebook/graph-sdk": "^5.7",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
